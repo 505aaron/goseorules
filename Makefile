@@ -2,7 +2,7 @@
 PACKAGE="github.com/505aaron/goseorules"
 BINARY_NAME="goseorules"
 
-export GOPATH=$(shell pwd)
+# export GOPATH=$(shell pwd)
 
 default: help
 
